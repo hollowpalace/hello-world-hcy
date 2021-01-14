@@ -4,79 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56c28da4-6aa1-45c1-ac0c-e4936a9db42f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/binarysearch/BinarySearchNoRecur.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/dac/Hanoitower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/dac/testDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/dynamic/Knapsack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/avl/AVLTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/avl/AvlTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/avl/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/binarysorttree/BinarySortTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/binarysorttree/BinarySortTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/binarysorttree/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/graph/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hashtab/Emp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hashtab/EmpLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hashtab/HashTab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hashtab/HashTabDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/huffmacode/HuffmanCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/huffmacode/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/linkedlist/Boy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/linkedlist/CircleSingleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/linkedlist/DoubleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/linkedlist/DoubleLinkedListDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/linkedlist/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/linkedlist/HeroNode2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/linkedlist/Josepfu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/linkedlist/SingleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/linkedlist/SingleLinkedListDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/linkedlist/TestStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/queue/ArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/queue/CircleArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/queue/CircleQueueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/queue/queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/recursion/MiGong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/recursion/Queen8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/search/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/search/FibonacciSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/search/InsertValueSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/search/MidFenSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/search/SeqSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sort/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sort/InsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sort/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sort/RadixSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sort/SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sort/ShellSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/ArrayStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/ArrayStack2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/ArrayStackDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/LinkStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/LinkStackDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/Operation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/PolandNotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/ReversePolishMultiCalc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/StackNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tree/ArrBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tree/ArrayBinaryTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tree/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tree/BinaryTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tree/HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tree/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tree/huffmanTree/HuffmanTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tree/huffmanTree/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tree/threadedBinaryTree/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tree/threadedBinaryTree/ThreadedBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tree/threadedBinaryTree/ThreadedBinaryTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/comTwo/KMP/KMP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/comTwo/hcy/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/comTwo/shangguigu/OuyD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/code.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/unicode.class" beforeDir="false" />
-    </list>
+    <list default="true" id="56c28da4-6aa1-45c1-ac0c-e4936a9db42f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -124,6 +52,8 @@
           <entry key="class" value="1" />
           <entry key="data" value="1" />
           <entry key="java" value="154" />
+          <entry key="md" value="1" />
+          <entry key="test" value="1" />
           <entry key="txt" value="11" />
           <entry key="xml" value="1" />
         </counts>
@@ -132,7 +62,8 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="JAVA" value="154" />
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="13" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -164,13 +95,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Algorithm/dac/Hanoitower.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -299,7 +245,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -353,7 +299,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610605257535" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610606863885" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -604,12 +550,12 @@
       <workItem from="1608792566985" duration="699000" />
       <workItem from="1610096868780" duration="2618000" />
       <workItem from="1610439033139" duration="3078000" />
-      <workItem from="1610590976474" duration="2445000" />
+      <workItem from="1610590976474" duration="3228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="562983000" />
+    <option name="totallyTimeSpent" value="563766000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -621,7 +567,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.30058652" visible="true" weight="0.23190348" />
@@ -697,8 +643,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hcy/Node.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hcy/SingleLink.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hcy/mt.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/comTwo/hcy/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1035,6 +979,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
