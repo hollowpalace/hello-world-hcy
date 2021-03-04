@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 public class HashTabDemo {
     public static void main(String[] args) {
-        ArrayList<String> list = new ArrayList<>();
+        ArrayList<String> list = new ArrayList<String>();
 
 
         HashTab hashTab = new HashTab(7);
