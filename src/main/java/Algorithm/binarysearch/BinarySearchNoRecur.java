@@ -9,7 +9,7 @@ package Algorithm.binarysearch;
 public class BinarySearchNoRecur {
     public static void main(String[] args) {
         int[] arr = {1,3,8,10,11,67,100};
-        int index = binarySearch(arr,8);
+        int index = binarySearch(arr,10);
         System.out.println(index);
 
     }

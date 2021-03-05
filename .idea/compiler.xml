@@ -7,8 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="method" />
+        <module name="com.ithcy" />
         <module name="hello-world-hcy" />
+        <module name="method" />
       </profile>
     </annotationProcessing>
   </component>

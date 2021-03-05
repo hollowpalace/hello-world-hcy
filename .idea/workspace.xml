@@ -10,8 +10,10 @@
     <list default="true" id="56c28da4-6aa1-45c1-ac0c-e4936a9db42f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hashtab/HashTabDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hashtab/HashTabDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/binarysearch/BinarySearchNoRecur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/binarysearch/BinarySearchNoRecur.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,8 +33,61 @@
     <expand />
     <select />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="342246291">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="comithcy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Algorithm/binarysearch/BinarySearchNoRecur.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/comTwo/KMP/KMP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="37" column="48" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -100,7 +155,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/avl/AVLTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stack/ArrayStackDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/graph/Graph.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Algorithm/binarysearch/BinarySearchNoRecur.java" />
         <option value="$PROJECT_DIR$/src/main/java/Algorithm/tt/e.java" />
         <option value="$PROJECT_DIR$/src/main/java/Algorithm/tt/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/queue/CircleQueueDemo.java" />
@@ -110,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Algorithm/dac/Hanoitower.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/Algorithm/kmp/ViolenceMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Algorithm/binarysearch/BinarySearchNoRecur.java" />
       </list>
     </option>
   </component>
@@ -153,7 +208,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -183,61 +238,55 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="comithcy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="method" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-hcy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="comithcy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="method" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-hcy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="comithcy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="method" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="comithcy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="method" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-hcy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="comithcy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="method" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-hcy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="comithcy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="method" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-hcy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="kmp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="comithcy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="method" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world-hcy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -248,12 +297,12 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611654603109" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614914439930" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15284973" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -263,6 +312,18 @@
       <recent name="F:\study\method" />
       <recent name="F:\study\method\src\main\java\com\stack" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Application.BinarySearchNoRecur">
     <configuration name="BinarySearchNoRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -284,6 +345,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hashtab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comTwo.KMP.KMP" />
+      <module name="com.ithcy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comTwo.KMP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,50 +391,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.dac.testDemo" />
-      <module name="method" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algorithm.dac.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.testDemo" />
       <item itemvalue="Application.Knapsack" />
       <item itemvalue="Application.ViolenceMatch" />
       <item itemvalue="Application.HashTabDemo" />
       <item itemvalue="Application.BinarySearchNoRecur" />
+      <item itemvalue="Application.KMP" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.BinarySearchNoRecur" />
+        <item itemvalue="Application.KMP" />
         <item itemvalue="Application.HashTabDemo" />
         <item itemvalue="Application.ViolenceMatch" />
         <item itemvalue="Application.Knapsack" />
-        <item itemvalue="Application.testDemo" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_MODE" value="false" />
   </component>
@@ -506,11 +554,13 @@
       <workItem from="1611646766020" duration="3385000" />
       <workItem from="1614860768327" duration="176000" />
       <workItem from="1614860954472" duration="56000" />
+      <workItem from="1614914282867" duration="165000" />
+      <workItem from="1614929889001" duration="275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="570547000" />
+    <option name="totallyTimeSpent" value="570987000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -525,7 +575,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.30058652" weight="0.23525469" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.30058652" visible="true" weight="0.2386059" />
       <window_info id="Structure" order="1" sideWeight="0.6994135" side_tool="true" weight="0.1930295" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -543,7 +593,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49932975" weight="0.32991204" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5093834" side_tool="true" weight="0.3313783" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32844576" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3274596" />
       <window_info anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.32991204" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -558,7 +608,10 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -566,21 +619,25 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/stack/PolandNotation.java</url>
           <line>21</line>
+          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/stack/PolandNotation.java</url>
           <line>24</line>
+          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/tree/threadedBinaryTree/ThreadedBinaryTreeDemo.java</url>
           <line>116</line>
+          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/tree/threadedBinaryTree/ThreadedBinaryTreeDemo.java</url>
           <line>96</line>
+          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
@@ -591,20 +648,8 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../../develop/Java/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../develop/Java/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="91" column="16" lean-forward="true" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://F:/develop/Java/src.zip!/java/util/Set.java" />
+    <entry file="jar://F:/develop/Java/src.zip!/java/util/HashSet.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/search/MidFenSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="438">
@@ -697,34 +742,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/com/tree/huffmanTree/HuffmanTree.class" />
-    <entry file="jar://$PROJECT_DIR$/../../../develop/Java/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="656" selection-start-line="656" selection-end-line="656" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../develop/Java/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="932" selection-start-line="932" selection-end-line="932" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../develop/Java/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../develop/Java/src.zip!/java/lang/Byte.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://F:/develop/Java/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://F:/develop/Java/src.zip!/java/lang/AbstractStringBuilder.java" />
+    <entry file="jar://F:/develop/Java/src.zip!/java/lang/StringBuilder.java" />
+    <entry file="jar://F:/develop/Java/src.zip!/java/lang/Byte.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/test/code.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -829,13 +850,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../develop/Java/src.zip!/java/text/NumberFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="546" column="37" selection-start-line="546" selection-start-column="37" selection-end-line="546" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://F:/develop/Java/src.zip!/java/text/NumberFormat.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/search/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -864,20 +879,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithm/binarysearch/BinarySearchNoRecur.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../develop/Java/src.zip!/java/math/BigDecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="2303" column="28" selection-start-line="2303" selection-start-column="28" selection-end-line="2303" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://F:/develop/Java/src.zip!/java/math/BigDecimal.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Algorithm/dac/testDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -912,13 +914,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/comTwo/KMP/KMP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -930,6 +925,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-109">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithm/binarysearch/BinarySearchNoRecur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/comTwo/KMP/KMP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="37" column="48" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -985,7 +994,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>method</last-edited>
+          <last-edited>com.ithcy</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
