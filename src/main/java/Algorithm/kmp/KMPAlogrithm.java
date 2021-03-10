@@ -8,6 +8,7 @@ package Algorithm.kmp;
  */
 public class KMPAlogrithm {
     public static void main(String[] args) {
-        
+        String str1="BBC ABCDAB ABCDABCDABDE";
+        String str2="ABCDABD";
     }
 }
