@@ -8,8 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56c28da4-6aa1-45c1-ac0c-e4936a9db42f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/greedy/GreedyAlgorithm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/greedy/GreedyAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/greedy/GreedyAlgorithm.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,12 +36,12 @@
     <session id="342246291">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="5" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -58,12 +58,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="433" />
+          <entry key="java" value="651" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="433" />
+          <entry key="JAVA" value="651" />
         </counts>
       </usages-collector>
     </session>
@@ -76,7 +76,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Algorithm/binarysearch/BinarySearchNoRecur.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
+            <state relative-caret-position="220">
               <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
             </state>
           </provider>
@@ -85,8 +85,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Algorithm/greedy/GreedyAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="11">
+              <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -268,56 +271,7 @@
       <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="comithcy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-world-hcy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="comithcy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-world-hcy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="comithcy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-world-hcy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="comithcy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-world-hcy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="comithcy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-world-hcy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="comithcy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-world-hcy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="comTwo" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -327,9 +281,9 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615776366419" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615877416946" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../a/wocloud-mspcmdb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -594,11 +548,15 @@
       <workItem from="1615432851468" duration="5246000" />
       <workItem from="1615514319978" duration="1757000" />
       <workItem from="1615775571655" duration="835000" />
+      <workItem from="1615801965160" duration="416000" />
+      <workItem from="1615802410838" duration="22000" />
+      <workItem from="1615860350302" duration="2566000" />
+      <workItem from="1615942366907" duration="701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="587953000" />
+    <option name="totallyTimeSpent" value="591658000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -610,10 +568,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.30058652" visible="true" weight="0.2613941" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.30058652" weight="0.27144772" />
       <window_info id="Structure" order="1" sideWeight="0.6994135" side_tool="true" weight="0.1930295" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -959,7 +917,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Algorithm/binarysearch/BinarySearchNoRecur.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
+        <state relative-caret-position="220">
           <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
@@ -987,8 +945,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Algorithm/greedy/GreedyAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="11">
+          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
