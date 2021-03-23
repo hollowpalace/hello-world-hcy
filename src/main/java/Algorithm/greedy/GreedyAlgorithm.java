@@ -55,6 +55,11 @@ public class GreedyAlgorithm {
 
         ArrayList<String> selects = new ArrayList<>();
 
+        HashSet<String> tempSet = new HashSet<>();
+
+        while (allAreas.size()!=0){
+            
+        }
 
     }
 }
