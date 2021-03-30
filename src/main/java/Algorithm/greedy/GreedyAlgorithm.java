@@ -56,10 +56,29 @@ public class GreedyAlgorithm {
         ArrayList<String> selects = new ArrayList<>();
 
         HashSet<String> tempSet = new HashSet<>();
+        String maxKey = null;
+        int maxAreasCount = 0;
+        while (allAreas.size() != 0) {
+            maxKey = null;
+            for (String key : broadcasts.keySet()) {
+                tempSet.clear();
+                HashSet<String> areas = broadcasts.get(key);
+                tempSet.addAll(areas);
+                tempSet.retainAll(allAreas);
 
-        while (allAreas.size()!=0){
-            
+                if (tempSet.size() > 0 && (maxKey == null || tempSet.size() > maxAreasCount)) {
+                    maxKey = key;
+                    maxAreasCount = tempSet.size();
+                }
+            }
+
+            if (maxKey != null) {
+                selects.add(maxKey);
+                allAreas.removeAll(broadcasts.get(maxKey));
+            }
         }
 
+
+        System.out.println(selects);
     }
 }
