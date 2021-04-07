@@ -24,6 +24,7 @@ public class PrimAlgorithm {
         MinTree minTree = new MinTree();
         minTree.createGraph(mGragh, verxs, data, weight);
         minTree.showGraph(mGragh);
+        minTree.prim(mGragh,0);
     }
 }
 
@@ -41,6 +42,28 @@ class MinTree {
     public void showGraph(MGragh gragh) {
         for (int[] link : gragh.weight) {
             System.out.println(Arrays.toString(link));
+        }
+    }
+
+    public void prim(MGragh gragh, int v) {
+        int visited[] = new int[gragh.verxs];
+        visited[v] = 1;
+        int h1 = -1;
+        int h2 = -1;
+        int minWeight = 10000;
+        for (int k = 1; k < gragh.verxs; k++) {
+            for (int i = 0; i < gragh.verxs; i++) {
+                for (int j = 0; j < gragh.verxs; j++) {
+                    if (visited[i] == 1 && visited[j] == 0 && gragh.weight[i][j] < minWeight) {
+                        minWeight = gragh.weight[i][j];
+                        h1 = i;
+                        h2 = j;
+                    }
+                }
+            }
+            System.out.println("边" + gragh.data[h1] + "," + gragh.data[h2] + ">权值" + minWeight);
+            visited[h2] = 1;
+            minWeight = 10000;
         }
     }
 }
