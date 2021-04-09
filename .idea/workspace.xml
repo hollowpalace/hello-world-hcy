@@ -7,9 +7,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56c28da4-6aa1-45c1-ac0c-e4936a9db42f" name="Default Changelist" comment="prim2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/kruskal/KruskalCase.java" afterDir="false" />
+    <list default="true" id="56c28da4-6aa1-45c1-ac0c-e4936a9db42f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/kruskal/KruskalCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/kruskal/KruskalCase.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,19 +63,20 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="2973" />
-          <entry key="txt" value="5" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="2973" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
           <entry key="git.branch.create.new" value="1" />
-          <entry key="git.branch.delete.remote" value="1" />
+          <entry key="git.branch.delete.local" value="1" />
+          <entry key="git.branch.delete.remote" value="2" />
           <entry key="git.branch.merge" value="2" />
         </counts>
       </usages-collector>
@@ -128,8 +129,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Algorithm/kruskal/KruskalCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="86" column="5" lean-forward="true" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+            <state relative-caret-position="248">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
         </entry>
@@ -348,7 +349,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617960780453" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617962324553" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -632,7 +633,7 @@
       <workItem from="1617671262562" duration="7330000" />
       <workItem from="1617757443240" duration="9924000" />
       <workItem from="1617845669268" duration="5002000" />
-      <workItem from="1617931349486" duration="12958000" />
+      <workItem from="1617931349486" duration="14420000" />
     </task>
     <task id="LOCAL-00001" summary="prim2">
       <created>1617787128679</created>
@@ -641,11 +642,18 @@
       <option name="project" value="LOCAL" />
       <updated>1617787128679</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="kruskal2">
+      <created>1617960830059</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617960830059</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="657289000" />
+    <option name="totallyTimeSpent" value="658751000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -658,6 +666,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.30058652" weight="0.28686327" />
       <window_info id="Structure" order="1" sideWeight="0.6994135" side_tool="true" weight="0.1930295" />
@@ -668,8 +677,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.6726058" side_tool="true" weight="0.21428572" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49061662" visible="true" weight="0.3876652" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865952" weight="0.36123347" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49061662" weight="0.3876652" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49865952" visible="true" weight="0.36123347" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.32991204" />
@@ -725,7 +734,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prim2" />
-    <option name="LAST_COMMIT_MESSAGE" value="prim2" />
+    <MESSAGE value="kruskal2" />
+    <option name="LAST_COMMIT_MESSAGE" value="kruskal2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -753,6 +763,12 @@
           <line>96</line>
           <properties />
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Algorithm/kruskal/KruskalCase.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1056,8 +1072,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Algorithm/kruskal/KruskalCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="86" column="5" lean-forward="true" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+        <state relative-caret-position="248">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
         </state>
       </provider>
     </entry>

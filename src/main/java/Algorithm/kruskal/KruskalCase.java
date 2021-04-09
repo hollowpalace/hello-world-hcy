@@ -28,11 +28,11 @@ public class KruskalCase {
                 /*F*/ {16, 7, 6, INF, 2, 0, 9},
                 /*G*/ {14, INF, INF, INF, 8, 9, 0}};
         KruskalCase kruskalCase = new KruskalCase(vertexs, matrix);
-        kruskalCase.print();
-        System.out.println(Arrays.toString(kruskalCase.getEdges()));
-        EData[] edges = kruskalCase.getEdges();
-        kruskalCase.sortEdges(edges);
-        System.out.println(Arrays.toString(edges));
+//        kruskalCase.print();
+//        System.out.println(Arrays.toString(kruskalCase.getEdges()));
+//        EData[] edges = kruskalCase.getEdges();
+//        kruskalCase.sortEdges(edges);
+//        System.out.println(Arrays.toString(edges));
         kruskalCase.kruskal();
     }
 
