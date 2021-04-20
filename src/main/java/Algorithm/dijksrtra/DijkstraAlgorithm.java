@@ -23,16 +23,23 @@ public class DijkstraAlgorithm {
 
         Graph graph = new Graph(vertex, matrix);
         graph.showGraph();
+        graph.dsj(2);
+        graph.showDjs();
     }
 }
 
 class Graph {
     private char[] vertex;
     private int[][] matrix;
+    private VisitedVertex vv;
 
     public Graph(char[] vertex, int[][] matrix) {
         this.vertex = vertex;
         this.matrix = matrix;
+    }
+
+    public void showDjs(){
+        vv.show();
     }
 
     public void showGraph() {
@@ -40,6 +47,30 @@ class Graph {
             System.out.println(Arrays.toString(link));
         }
     }
+
+    public void dsj(int index) {
+        vv = new VisitedVertex(vertex.length, index);
+        update(index);
+
+        for (int j = 1; j <vertex.length ; j++) {
+            index=vv.updateArr();
+            update(index);
+        }
+
+    }
+
+    private void update(int index) {
+        int len = 0;
+        for (int j = 0; j < matrix[index].length; j++) {
+            len = vv.getDis(index) + matrix[index][j];
+            if (!vv.in(j) && len < vv.getDis(j)) {
+                vv.updatePre(j, index);
+                vv.updateDis(j, len);
+            }
+        }
+    }
+
+
 }
 
 class VisitedVertex {
@@ -55,6 +86,7 @@ class VisitedVertex {
         this.pre_visited = new int[length];
         this.dis = new int[length];
         Arrays.fill(dis, 65535);
+        this.already_arr[index] = 1;
         this.dis[index] = 0;
     }
 
@@ -62,7 +94,54 @@ class VisitedVertex {
         return already_arr[index] == 1;
     }
 
-    public void updateDis(int index,int len){
+    public void updateDis(int index, int len) {
+        dis[index] = len;
+    }
 
+    public void updatePre(int pre, int index) {
+        pre_visited[pre] = index;
+    }
+
+    public int getDis(int index) {
+        return dis[index];
+    }
+
+    public int updateArr() {
+        int min = 65535, index = 0;
+        for (int i = 0; i < already_arr.length; i++) {
+            if (already_arr[i] == 0 && dis[i] < min) {
+                min = dis[i];
+                index = i;
+            }
+
+        }
+        already_arr[index] = 1;
+        return index;
+    }
+
+    public void show(){
+        System.out.println("==============");
+        for (int i : already_arr) {
+            System.out.print(i+" ");
+        }
+        System.out.println();
+        for (int i : pre_visited) {
+            System.out.print(i+" ");
+        }
+        System.out.println();
+        for (int i : dis) {
+            System.out.print(i+" ");
+        }
+        System.out.println();
+        char[] vertex = {'A', 'B', 'C', 'D', 'E', 'F', 'G'};
+        int count = 0;
+        for (int i : dis) {
+            if (i!=65535){
+                System.out.print(vertex[count]+"("+i+")");
+            }else {
+                System.out.print("N");
+            }
+            count++;
+        }
     }
 }
