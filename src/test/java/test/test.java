@@ -17,7 +17,7 @@ public class test {
         Color blank = Color.BLANK;
         Color red = Color.RED;
         if (blank==red){
-            
+
         }
         System.out.println(blank.getName());
 
