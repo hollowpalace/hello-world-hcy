@@ -31,6 +31,7 @@ public class PhoneNumber {
 
     public void backtrack(List<String> combinations, Map<Character, String> phoneMap, String digits, int index, StringBuffer combination) {
         if (index == digits.length()) {
+            System.out.println("");
             combinations.add(combination.toString());
         } else {
             char digit = digits.charAt(index);
